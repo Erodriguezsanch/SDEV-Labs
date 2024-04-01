@@ -2,7 +2,7 @@
 
 M02Lab.py
 
-Description: This program will ask verify if the name entered will make the Dean's List, Honor Roll, or none.
+Description: This program will verify if the name entered will make the Dean's List, Honor Roll, or none.
 It will ask for the last name or the sentinel value to end the loop / program.
 After last name, it will ask for first name, and lastly the GPA.
 GPA for Dean's List is greater than or equal to 3.5.
